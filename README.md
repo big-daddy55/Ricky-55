@@ -30,7 +30,7 @@
 - 🌱 I'm currently learning: **📚 Exploring .Net, Go and Flutter**
 - 💬 Ask me about: **💡 Php, Laravel, Javascript & Vue**
 - ⚡ Fun fact: **🏀 I play basketball**
-- 📂 Portfolio: **<a href="https://derrickazaglo.netlify.app" target="_blank">💻 Click Me</a>**
+- 📂 Portfolio: **<a href="https://azaglo.tech" target="_blank">💻 Click Me</a>**
 
  **<h3 align="left">Skills</h3>**
 
